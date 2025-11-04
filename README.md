@@ -1,5 +1,12 @@
 #  BookStore - Aplikasi Pemesanan Buku Online
 
+**Nama   :** Wahyu Andika  
+**NIM    :** 312410182  
+**Kelas  :** TI.24.A2  
+**Matkul :** Pemrograman Web 1  
+**Dosen Pengampu :** Agung Nugroho, S.Kom., M.Kom
+
+
 ##  Deskripsi Proyek
 BookStore adalah aplikasi web pemesanan buku online yang dibangun menggunakan **HTML5, CSS3, dan JavaScript**. Aplikasi ini menampilkan implementasi lengkap front-end development dengan fitur-fitur modern seperti dynamic content loading, form validation, local storage, dan responsive design.
 
