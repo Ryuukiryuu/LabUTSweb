@@ -170,13 +170,6 @@ const CartManager = {
 
 ---
 
-## 📱 Responsive Design
-
-### **Breakpoints:**
-- **Mobile**: < 768px
-- **Tablet**: 768px - 992px  
-- **Desktop**: > 992px
-
 ### **Mobile-First Approach:**
 ```css
 /* Base styles (mobile) */
